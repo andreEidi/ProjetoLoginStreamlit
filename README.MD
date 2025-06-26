@@ -23,7 +23,7 @@ Este projeto implementa um sistema de autenticação de usuários em uma aplica�
 
 1. **Clone o repositório**  
    ```bash  
-   git clone https://github.com/seu-usuario/seu-projeto.git  
+   git clone https://github.com/andreEidi/ProjetoLoginStreamlit.git  
    cd seu-projeto  
    ```  
 
@@ -66,7 +66,7 @@ Este projeto implementa um sistema de autenticação de usuários em uma aplica�
 ---
 
 ## 👨‍💻 **Desenvolvido por**  
-**Seu Nome** – [GitHub](https://github.com/seu-usuario) | [LinkedIn](https://linkedin.com/in/seu-perfil)
+**Seu Nome** – [GitHub](https://github.com/andreEidi) | [LinkedIn](https://www.linkedin.com/in/andre-eidi-maeda/)
 
 📧 **Contato:** seu-email@exemplo.com  
 
