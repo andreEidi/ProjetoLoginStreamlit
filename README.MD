@@ -60,15 +60,17 @@ Este projeto implementa um sistema de autenticação de usuários em uma aplica�
 ├── pages/                # Páginas acessíveis após login  
 │   ├── dashboard.py      # Página do dashboard  
 │   └── profile.py        # Página de perfil  
+├── dependencies/         # Dependencias
+│   ├── dependencie.py    # Conexão com o banco de dados  
 └── README.md             # Este arquivo  
 ```  
 
 ---
 
 ## 👨‍💻 **Desenvolvido por**  
-**Seu Nome** – [GitHub](https://github.com/andreEidi) | [LinkedIn](https://www.linkedin.com/in/andre-eidi-maeda/)
+**André Eidi Maeda** – [GitHub](https://github.com/andreEidi) | [LinkedIn](https://www.linkedin.com/in/andre-eidi-maeda/)
 
-📧 **Contato:** seu-email@exemplo.com  
+📧 **Contato:** andre_eidi_maeda@outlook,com
 
 ---  
 
