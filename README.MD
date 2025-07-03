@@ -47,7 +47,6 @@ Este projeto implementa um sistema de autenticação de usuários em uma aplica�
 - 🔄 **Recuperação de senha**  
 - ⏳ **Controle de sessão**  
 - 👥 **Acesso diferenciado por perfil de usuário**  
-
 ---
 
 ## 📂 Estrutura do Projeto  
