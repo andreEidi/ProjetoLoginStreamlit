@@ -36,7 +36,6 @@ Este projeto implementa um sistema de autenticação de usuários em uma aplica�
    ```bash  
    streamlit run app.py  
    ```  
-
 ---
 
 
