@@ -40,12 +40,17 @@ def login_form(authenticator):
     name, authentication_status, username = authenticator.login('Login')
     if authentication_status:
         st.success(f'Bem-vindo {name}')
+        authenticator.logout('Logout', 'sidebar')
         sleep(1)
         st.session_state['clicou_registrar'] = True
-        st.experimental_rerun()
+        st.rerun()
     elif authentication_status is False:
         st.error('Usuário ou senha incorretos')
     elif authentication_status is None:
+        clicou_em_registrar = st.button('Registrar')
+        if clicou_em_registrar:
+            st.session_state['clicou_registrar'] = True
+            st.rerun()
         st.warning('Por favor, faça o login')
 
 
